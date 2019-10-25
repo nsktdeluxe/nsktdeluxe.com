@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biography>
+  <!-- 基本情報 -->
+  <basic>
+    <name>ウラジーミル・ニシコフ</name>
+    <born>1992.4</born>
+    <live>東京都</live>
+    <job>プログラマー兼おもしろ屋さん（目標）</job>
+    <career>2015年3月都内某大学文系学部卒→内定ゼロのためニート化→小売業現場×2→紆余曲折経て未経験から現職へ</career>
+    <dream>NNT学生に講釈するハロワのおばちゃん</dream>
+  </basic>
+  <!-- 好きなもの -->
+  <favorites>
+    <bookauthors>
+    </bookauthors>
+    <comicauthors>
+    </comicauthors>
+  </favorites>
+</biography>

@@ -2,9 +2,11 @@
 <!-- ヘッダー共通ファイルだよ〜〜 -->
 <html lang="ja">
   <head>
+    <!-- メタ -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- タイトル -->
     <title>NISHIKOV Engineering | nsktdeluxe's portfolios</title>
     <link rel="shortcut icon" href="favicon.ico" >
     <link rel="apple-touch-icon-precomposed apple-touch-icon" href="/img/apple-touch-icon.png" sizes="180x180">

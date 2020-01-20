@@ -20,7 +20,7 @@
     min-height: 100vh;
 }
 .title-img {
-    background-image: url('../img/wood-3240764_1280.jpg');
+    background-image: url("../img/wood-3240764_1280.jpg");
 }
 #page_top{
   width: 50px;

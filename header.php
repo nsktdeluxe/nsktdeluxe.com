@@ -23,11 +23,11 @@
   </head>
   <body>
     <div id="wrapper" class="bg-light">
-      <div class="jumbotron　jumbotron-fluid text-center">
+      <div class="jumbotron　jumbotron-fluid title-img text-center">
         <div class="container">
           <h1 class="title">NISHIKOV Engineering</h1>
           <hr class="">
-          <p class="">Web Engineer, Amateur Orchestra Violinist, Encourager</p>
+          <p class="">Web Engineer, Amateur Orchestra Violinist &spokesperson, Encourager</p>
           <p class="">(: nsktdeluxe's portfolios :)</p>
         </div>
       </div>

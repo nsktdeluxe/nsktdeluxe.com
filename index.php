@@ -15,14 +15,15 @@
     <body>
       <?php include __DIR__.'/header.php'; ?>
         <div class="container">
-            <p>contents</p>
-        <!--<div id="page_top">
-          <a href="#"></a>
-        </div> -->
+        　<!-- 自己紹介 -->
+          <p>にしこさん（@nsktdeluxe）</p>
+          <p>1992年4月</p>
+          <!-- ページトップへボタン -->
+          <!--<div id="page_top">
+            <a href="#"></a>
+          </div> -->
+        <?php include __DIR__.'/footer.php'; ?>          
         </div>
-      <?php include __DIR__.'/footer.php'; ?>
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-      <script type="text/javascript" src="/js/footerFixed.js"></script>
-      <script src="js/bootstrap.min.js"></script>
+      <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
     </body>
 </html>

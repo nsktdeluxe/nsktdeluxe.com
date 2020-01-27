@@ -1,13 +1,5 @@
 .topStyle{
   background-color: rgba(255, 0, 0, 0.2);
-  background: linear-gradient(#ff8080, #9932cc);
-  font-color:#FFF;
-}
-.title{
-  font-family:Osaka;
-}
-.aori{
-  font-family:Impact;
 }
 #footer {
     position: fixed;
@@ -17,11 +9,30 @@
 #wrapper {
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    background-color: #bfbec5;
+    color: floralwhite;
 }
-.title-img {
-    background-image: url("../img/wood-3240764_1280.jpg");
+/*  */
+.title_img {
+    background-image: url("../img/top_img.jpg");
+    background-size: cover;
+    color: floralwhite;
+    height: max-content;
 }
+/*  */
+#title_content {
+    font-family:Osaka;  
+}
+#title_content > h1 {
+    margin: 2em auto;
+}
+#title_content > p {
+    margin: 1em auto;
+}
+#title_content > p:last-of-type {
+    margin: 2em auto;
+}
+/*  */
 #page_top{
   width: 50px;
   height: 50px;

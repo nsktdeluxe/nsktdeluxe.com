@@ -1,30 +1,51 @@
-.topStyle{
-  background-color: rgba(255, 0, 0, 0.2);
+@charset "UTF-8";
+/* index.css */
+h1, h2, h3, h4, h5, h6, p, span {
+    font-family: "Hannari";
+}
+/*h2, h3, h4, h5, h6, p, span {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}*/
+.content {
+    margin-bottom: 16vh;
+}
+.padding-none {
+    padding: 0;
+}
+.indented-text {
+    text-indent: 1em;
+}
+.container {
+    margin-top: 7vh;
+}
+.performances * {
+    color: #212529;
+}
+.img{
+    width: 100%;
+    max-width: 100%;
+    height: auto;
 }
 #footer {
+    width:100%;
+    background-color: rgb(56, 56, 56, 0.95);
+    color: floralwhite;
+    padding: 5px;
     position: fixed;
     bottom: 0;
-    width:100%;
+    top: auto !important;
 }
-#wrapper {
-    display: flex;
-    flex-direction: column;
-    background-color: #bfbec5;
-    color: floralwhite;
-}
-/*  */
+/* メイン画像 */
 .title_img {
     background-image: url("../img/top_img.jpg");
     background-size: cover;
+    padding: 4em 1.5em;
     color: floralwhite;
     height: max-content;
 }
-/*  */
-#title_content {
-    font-family:Osaka;  
-}
+/* タイトル */
 #title_content > h1 {
-    margin: 2em auto;
+    font-size: 1.7em;
 }
 #title_content > p {
     margin: 1em auto;
@@ -32,36 +53,65 @@
 #title_content > p:last-of-type {
     margin: 2em auto;
 }
-/*  */
-#page_top{
-  width: 50px;
-  height: 50px;
-  position: fixed;
-  right: 0;
-  bottom: 24px;
-  background: #3fefee;
-  opacity: 0.6;
-  border-radius: 50%;
-  }
-#page_top a{
-  position: relative;
-  display: block;
-  width: 50px;
-  height: 50px;
-  text-decoration: none;
+.prof_img {
+    width: 75%;
+    max-width: 75%;
+    height: auto;
 }
-#page_top a::before{
-  font-family: FontAwesome;
-  content: '\f062';
-  font-size: 25px;
-  color: #fff;
-  position: absolute;
-  width: 25px;
-  height: 25px;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  margin: auto;
-  text-align: center;
+.archives_link > a {
+    color: #937d8e;
 }
+/* ページトップ */
+#page_top {
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    right: 0;
+    bottom: 24px;
+    background: #FFF4E1;
+    opacity: 0.6;
+    border-radius: 50%;
+}
+#page_top a {
+    position: relative;
+    display: block;
+    width: 50px;
+    height: 50px;
+    text-decoration: none;
+}
+#page_top a::before {
+    font-family: FontAwesome;
+    content: '\f062';
+    font-size: 25px;
+    color: #fff;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    text-align: center;
+}
+/* メディアクエリ
+ ----------------------------------------*/
+@media screen and(max-width: 575px) {
+    /* タイトル */
+    #title_content > h1 {
+        font-size: 1.7em;
+    }
+    .content {
+    margin-bottom: 16vh;
+    }
+}
+@media screen and(min-width: 576px) {
+    /* タイトル */
+    #title_content > h1 {
+        font-size: 2.3em;
+    }
+    .content {
+        margin-bottom: 20vh;
+    }
+}
+

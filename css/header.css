@@ -1,0 +1,49 @@
+@charset "UTF-8";
+/* header.css */
+/* wrapper */
+#header-wrap {
+    display: flex;
+    flex-direction: column;
+    background-color: #383838;
+}
+#header-wrap a, ul, li, button, span {
+    color: floralwhite;
+}
+/* navbar */
+.navbar-light .navbar-toggler {
+    border-color: rgba(0,0,0,0) !important;
+}
+.navbar-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,250,240,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
+}
+.header-icon{
+    color: floralwhite;
+    margin: auto 7px;
+}
+.navbar-brand {
+    font-size: 1.5em;
+    margin-right: auto;
+}
+.nav-link {
+    padding: .6rem 1.2rem !important;
+}
+span {
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+}
+span::after {
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  content: '';
+  width: 100%;
+  height: 0.75px;
+  background: rgba(255,250,240,1); /* floralwhite*/
+  transform: scale(0, 1);
+  transform-origin: left top;
+  transition: transform .3s;
+}
+span:hover::after {
+  transform: scale(1, 1) !important;
+}

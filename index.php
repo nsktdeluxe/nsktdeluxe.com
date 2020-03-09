@@ -61,9 +61,9 @@
                             </a>
                         </div>
                         <div class="col-xs-12 col-md-4 text-center">
-                            <p>Mail（工事中）</p>
-                            <a href="contact.php">
-                                <i class="fas fa-paper-plane fa-2x"></i>
+                            <p>GitHub</p>
+                            <a href="https://github.com/nsktdeluxe">
+                                <i class="fab fa-github fa-2x"></i>
                             </a>
                         </div>                    
                     </div>

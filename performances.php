@@ -18,16 +18,52 @@
                         <h2>出演予定</h2>
                         <p class="">以下のオーケストラの演奏会などに出演予定です。</p>
                         <p class="indented-text">
-                            <span>05.03</span>
-                            <span>Orchestra Walnuts 特別演奏会 1stVn</span>
+                            <span>04.17</span>
+                            <span>シンフォニックアンサンブルブーケ 第２回定期演奏会</span>
+                            <span>2ndVn</span>
+                        </p>
+                        <p class="indented-text">
+                            <span>05.05</span>
+                            <span>アーベント・フィルハーモニカー 第24回定期演奏会</span>
+                            <span>2ndVn</span>
+                        </p>
+                        <p class="indented-text">
+                            <span>07.23</span>
+                            <span>オオルリ弦楽アンサンブル 第４回演奏会</span>
+                            <span>2ndVn</span>
                         </p>
                     </div>
                     <div class="col-4">
                         <img src="img/music-2509582_1920.jpg" alt="" class="img" />
                     </div>
                     <div class="col-12">
-                        <h2>大入御礼</h2>
+                        <h2>過去の演奏会</h2>
+                        <h4>2021</h4>
+                        <p class="indented-text">
+                            <span>02.21</span>
+                            <span>だいたい平成音楽会「オーケストラ生配信大作戦！！」</span>
+                            <span>1stVn</span>
+                        </p>
                         <h4>2020</h4>
+                        <p class="indented-text">
+                            <span>11.22</span>
+                            <span>ISP -Innovation in Sounds Philharmonic- 第６回演奏会</span>
+                            <span>2ndVn</span>
+                        </p>
+                        <p class="indented-text">
+                            <span>11.07</span>
+                            <span>ボヘミアン・フィルハーモニック 第４回定期演奏会</span>
+                            <span>1stVn</span>
+                        </p>
+                        <p class="indented-text">
+                            <span>09.06</span>
+                            <span>アーベント・フィルハーモニカー 第23回定期演奏会</span>
+                            <span>1stVn</span>
+                        </p>
+                        <p class="indented-text">
+                            <span>05.03</span>
+                            <span><s>Orchestra Walnuts 特別演奏会</s>(中止)</span>
+                        </p>
                         <p class="indented-text">
                             <span>02.29</span>
                             <span>シェーナークライスフィルハーモニー管弦楽団　第１回定期演奏会</span>

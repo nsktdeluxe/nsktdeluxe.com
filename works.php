@@ -18,25 +18,31 @@
                     <h3>言語</h3>
                     <div class="row mx-auto">
                         <div class="col-12">
-                            <p>Java/HTML/css/JavaScript/PHP/SQL/ExcelVBA/</p>
+                            <p>html/pug/css/JavaScript/PHP7.4/Java</p>
                         </div>
                     </div>
-                    <h3>フレームワーク</h3>
+                    <h3>フレームワーク(Frontend)</h3>
                     <div class="row mx-auto">
                         <div class="col-12">
-                            <p>SpringBoot2/struts/seesar2/JavaEE7/Laravel/jQuery/Vue.js/Bootstrap3,4</p>
+                            <p>Vue.js/jQuery/tachyons/Bootstrap3,4/thymeleaf</p>
+                        </div>
+                    </div>
+                    <h3>フレームワーク(Server)</h3>
+                    <div class="row mx-auto">
+                        <div class="col-12">
+                            <p>Laravel/Node.js/Nuxt.js/SpringBoot2/Java EE7</p>
                         </div>
                     </div>
                     <h3>DB・O/Rマッパー</h3>
                     <div class="row mx-auto">
                         <div class="col-12">
-                            <p>Oracle11g,12c/PostgreSQL10/JOOQ</p>
+                            <p>Oracle11g,12c/MySQL8.0.22/PostgreSQL10/JOOQ</p>
                         </div>
                     </div>
-                    <h3>バージョン管理・その他</h3>
+                    <h3>OS・バージョン管理・パッケージ管理・その他</h3>
                     <div class="row mx-auto">
                         <div class="col-12">
-                            <p>SVN/Git/GitHub/Eclipse3.6〜4.7/Redmine/Slack</p>
+                            <p>Mac OS/Windows/Linux(Ubuntu,Debian)/SVN/Git/nvm/npm/yarn</p>
                         </div>
                     </div>
                     <br />

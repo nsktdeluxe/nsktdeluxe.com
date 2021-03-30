@@ -28,6 +28,11 @@
                             <span>2ndVn</span>
                         </p>
                         <p class="indented-text">
+                            <span>07.17</span>
+                            <span>シンフォニックアンサンブルブーケ 第３回定期演奏会</span>
+                            <span>2ndVn</span>
+                        </p>
+                        <p class="indented-text">
                             <span>07.23</span>
                             <span>オオルリ弦楽アンサンブル 第４回演奏会</span>
                             <span>2ndVn</span>

@@ -1,4 +1,4 @@
-# nsktdeluxe.com
+# nsktdeluxe.github.io
 ぽーーーーとふぉうりお
 
 <!-- ひとは誰でも持っている みんな心に持っている

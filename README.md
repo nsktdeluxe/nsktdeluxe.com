@@ -1,5 +1,5 @@
 # nsktdeluxe.github.io
-ぽーーーーとふぉうりお
+portfolio of @nsktdeluxe .
 
 <!-- ひとは誰でも持っている みんな心に持っている
  遥かな無始の過去から 持っている

@@ -9,6 +9,6 @@
         <link href="css/index.css" rel="stylesheet">
     </head>
     <body>
-        <div class="text-center" id="footer">(c)2019-2020 nsktdeluxe.com</div>
+        <div class="text-center" id="footer">(c)2021 nsktdeluxe.com</div>
     </body>
 </html>

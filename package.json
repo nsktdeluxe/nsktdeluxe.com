@@ -1,0 +1,22 @@
+{
+  "name": "nsktdeluxe.com",
+  "version": "1.0.0",
+  "description": "ぽーーーーとふぉうりお",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsktdeluxe/nsktdeluxe.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsktdeluxe/nsktdeluxe.com/issues"
+  },
+  "homepage": "https://github.com/nsktdeluxe/nsktdeluxe.com#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
+}

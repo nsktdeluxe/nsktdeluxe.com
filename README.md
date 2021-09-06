@@ -1,5 +1,7 @@
-# nsktdeluxe.github.io
+# nsktdeluxe.com
 portfolio of @nsktdeluxe .
+2019.10〜 レンタルサーバーで運用していました。
+主機能を `nsktdeluxe.github.io` に移転中。
 
 <!-- ひとは誰でも持っている みんな心に持っている
  遥かな無始の過去から 持っている

@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/nsktdeluxe/nsktdeluxe.com#readme",
   "dependencies": {
-    "vue": "^2.6.12"
   }
 }
